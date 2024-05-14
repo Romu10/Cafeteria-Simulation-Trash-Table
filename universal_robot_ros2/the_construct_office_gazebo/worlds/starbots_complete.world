@@ -811,7 +811,7 @@
       <include>
         <uri>model://coffee_table</uri>
       </include>
-      <pose>8.9 -18.3 0 0 0 0</pose>
+      <pose>8.9 -18.5 0 0 0 0</pose>
     </model>
 
     <model name="armchair">
@@ -843,7 +843,7 @@
       <include>
         <uri>model://table</uri>
       </include>
-      <pose>8.75 -15.0 0 0 0 0</pose>
+      <pose>8.75 -14.6 0 0 0 0</pose>
     </model>
 
     <model name="starbots_table_ingestor">
@@ -851,7 +851,7 @@
       <include>
         <uri>model://starbots_table_ingestor</uri>
       </include>
-      <pose>10.25 -15.0 0 0 0 0 0</pose>
+      <pose>10.25 -14.6 0 0 0 0 0</pose>
     </model>
 
     <model name="espresso_machine">
@@ -867,7 +867,7 @@
       <include>
         <uri>model://barstool</uri>
       </include>
-      <pose>8.5 -14.4 0 1.57 0 0</pose>
+      <pose>8.5 -14.0 0 1.57 0 0</pose>
     </model>
 
     <model name="barstool_2">
@@ -875,7 +875,7 @@
       <include>
         <uri>model://barstool</uri>
       </include>
-      <pose>9.3 -14.4 0 1.57 0 0</pose>
+      <pose>9.3 -14.0 0 1.57 0 0</pose>
     </model>
 
     <model name="barstool_3">
@@ -883,7 +883,7 @@
       <include>
         <uri>model://barstool</uri>
       </include>
-      <pose>10.1 -14.4 0 1.57 0 0</pose>
+      <pose>10.1 -14.0 0 1.57 0 0</pose>
     </model>
 
     <model name="barstool_4">
@@ -891,7 +891,7 @@
       <include>
         <uri>model://barstool</uri>
       </include>
-      <pose>10.9 -14.4 0 1.57 0 0</pose>
+      <pose>10.9 -14.0 0 1.57 0 0</pose>
     </model>
 
     <model name="barstool_5">
@@ -899,7 +899,7 @@
       <include>
         <uri>model://barstool</uri>
       </include>
-      <pose>8.5 -15.5 0 1.57 0 -3.1416</pose>
+      <pose>8.5 -15.1 0 1.57 0 -3.1416</pose>
     </model>
 
     <model name="barstool_6">
@@ -907,7 +907,7 @@
       <include>
         <uri>model://barstool</uri>
       </include>
-      <pose>9.3 -15.5 0 1.57 0 -3.1416</pose>
+      <pose>9.3 -15.1 0 1.57 0 -3.1416</pose>
     </model>
 
     <model name="barstool_7">
@@ -915,7 +915,7 @@
       <include>
         <uri>model://barstool</uri>
       </include>
-      <pose>10.1 -15.5 0 1.57 0 -3.1416</pose>
+      <pose>10.1 -15.1 0 1.57 0 -3.1416</pose>
     </model>
 
     <model name="barstool_8">
@@ -923,7 +923,7 @@
       <include>
         <uri>model://barstool</uri>
       </include>
-      <pose>10.9 -15.5 0 1.57 0 -3.1416</pose>
+      <pose>10.9 -15.1 0 1.57 0 -3.1416</pose>
     </model>
 
     <model name="countertop">
